@@ -52,7 +52,7 @@ App Flow
 
         On the first launch, users can sign up by providing a username and password.
 
-        After signing up, they will be redirected to the login page to enter their credentials.
+        After signing up, they will be redirected to a page to fill in the initial balance of the account.
 
     Main Activity:
 
